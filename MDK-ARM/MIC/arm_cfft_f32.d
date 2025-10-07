@@ -1,0 +1,17 @@
+mic\arm_cfft_f32.o: MyDrivers\arm_cfft_f32.c
+mic\arm_cfft_f32.o: D:\Keil5\ARM\CMSIS-DSP\1.16.2\Include\dsp/transform_functions.h
+mic\arm_cfft_f32.o: D:\Keil5\ARM\CMSIS-DSP\1.16.2\Include\arm_math_types.h
+mic\arm_cfft_f32.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+mic\arm_cfft_f32.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
+mic\arm_cfft_f32.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+mic\arm_cfft_f32.o: D:\Keil5\ARM\ARMCC\Bin\..\include\string.h
+mic\arm_cfft_f32.o: D:\Keil5\ARM\ARMCC\Bin\..\include\math.h
+mic\arm_cfft_f32.o: D:\Keil5\ARM\ARMCC\Bin\..\include\float.h
+mic\arm_cfft_f32.o: D:\Keil5\ARM\ARMCC\Bin\..\include\limits.h
+mic\arm_cfft_f32.o: D:\Keil5\ARM\CMSIS-DSP\1.16.2\Include\arm_math_memory.h
+mic\arm_cfft_f32.o: D:\Keil5\ARM\CMSIS-DSP\1.16.2\Include\dsp/none.h
+mic\arm_cfft_f32.o: D:\Keil5\ARM\CMSIS-DSP\1.16.2\Include\dsp/utils.h
+mic\arm_cfft_f32.o: D:\Keil5\ARM\CMSIS-DSP\1.16.2\Include\dsp/basic_math_functions.h
+mic\arm_cfft_f32.o: D:\Keil5\ARM\CMSIS-DSP\1.16.2\Include\dsp/complex_math_functions.h
+mic\arm_cfft_f32.o: D:\Keil5\ARM\CMSIS-DSP\1.16.2\Include\dsp/fast_math_functions.h
+mic\arm_cfft_f32.o: D:\Keil5\ARM\CMSIS-DSP\1.16.2\Include\arm_common_tables.h
